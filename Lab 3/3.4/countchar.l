@@ -8,7 +8,7 @@ int charcount=0;
 %%
 
 int main() {
-    printf("Lab Work performed by RATHOD SRINIVAS 2019UGCS026R\n");
+    printf("Lab Work performed by Himanshu Tomar 2019UGCS041R\n");
     yylex();
 }
 
