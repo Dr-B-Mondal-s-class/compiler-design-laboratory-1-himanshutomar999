@@ -144,41 +144,7 @@ Other Characters: 18
 
 # Lab 4
 
- 4.1: WAP to recognize float and int data type.
-
-
-
-```bash
-Sample Input:
-012
-123.4
-Himanshu
-
-Sample Output:
-001 is of int type
-123.1 is of float type
-Himanshu neither float nor int
-```
-
-4.2: WAP to verify a valid identifier.
-
-
-
-```bash
-Sample Input:
-var
-0var
-Var_check1
-Himanshu Tomar
-
-Sample Output:
-A valid identifier
-Not a valid identifier
-A valid identifier
-A valid identifier
-```
-
-4.3: WAP to verify a valid keyword.
+4.1: WAP to verify a valid keyword.
 
 
 
@@ -196,25 +162,8 @@ Not a keyword
 A keyword
 ```
 
-4.4: WAP to recognize basic operators (PLUS(+), MINUS(-), GE(>=), LE(<=)).
 
-
-
-```bash
-Sample Input:
-+
--
->=
-<=
-
-Sample Output:
-It's a PLUS operator
-It's a MINUS operator
-Greater or equal to operator
-Lesser or equal to operator
-```
-
-4.5: WAP to determine input operators whether arithmetic or logical.
+4.2: WAP to determine input operators whether arithmetic or logical.
 
 
 
@@ -234,6 +183,44 @@ It's a valid arithmetic operator
 It's a valid logical operator
 Neither logical nor arithmetic operator!
 ```
+
+4.3: WAP to verify a valid identifier.
+
+
+
+```bash
+Sample Input:
+var
+0var
+Var_check1
+Himanshu Tomar
+
+Sample Output:
+A valid identifier
+Not a valid identifier
+A valid identifier
+A valid identifier
+```
+
+
+
+ 4.4: WAP to recognize float and int data type.
+
+
+
+```bash
+Sample Input:
+012
+123.4
+Himanshu
+
+Sample Output:
+001 is of int type
+123.1 is of float type
+Himanshu neither float nor int
+```
+
+
 
 # Lab 5
 
