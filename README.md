@@ -23,7 +23,7 @@ contains both letter(s) and digit(s) or special character(s)
 
 # Lab 2
 
-2.1 : WAP to recognize digit and non-digit
+2.1 : WAP to check whether input contains only letter or digit
 
 
 
@@ -36,14 +36,14 @@ Himanshu
 6
 
 Sample Output:
-it's a valid digit
-not a digit
-not a digit
-not a digit
-it's a valid digit
+digit only
+invalid format
+letter only
+invalid format
+digit only
 ```
 
-2.2: WAP to recognize whether string contain only english letters or not.
+2.2: WAP to check whether input contains only alphabet
 
 
 
@@ -55,10 +55,11 @@ qwerty
 qwerty123
 
 Sample Output:
-contains only letter(s)
-other character(s) detected
-contains only letter(s)
-other character(s) detected
+Only alphabets present
+Other characters are also present
+Only alphabets present
+Other characters are also present
+
 ```
 
 2.3: WAP to recognize whether string contain only uppercase, lowercase or both letters.
@@ -77,6 +78,22 @@ all Capital letter(s)
 all small letter(s)
 contains both capital and small letter(s)
 other character(s)
+```
+
+2.4: WAP to check whether input is digit or not
+
+
+
+```bash
+Sample Input:
+5
+2019UGCS041R
+123
+
+Sample Output:
+digit
+not a digit
+not a digit
 ```
 
 # Lab 3
