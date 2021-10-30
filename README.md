@@ -99,19 +99,7 @@ contains both vowel(s) and consonant(s)
 other character(s) detected
 ```
 
-3.2: WAP to count no. characters in a string.
-
-
-
-```bash
-Sample Input:
-2019UGCS041R_Himanshu
-
-Sample Output:
-21 character(s) detected
-```
-
-3.3: WAP to count no. of vowels, consonants, in a string.
+3.2: WAP to count no. of vowels, consonants, in a string.
 
 
 
@@ -126,7 +114,9 @@ No. of consonants: 9
 Other Characters: 8
 ```
 
-3.4: WAP to count no. of characters, whitespace,tabs and digits in a string.
+
+
+3.3: WAP to count no. of characters, whitespace,tabs and digits in a string.
 
 
 
@@ -140,6 +130,18 @@ No. of tabs : 1
 No. of Digits: 7
 No. of white spaces: 1
 Other Characters: 18
+```
+
+3.4: WAP to count no. characters in a string.
+
+
+
+```bash
+Sample Input:
+2019UGCS041R_Himanshu
+
+Sample Output:
+21 character(s) detected
 ```
 
 # Lab 4
