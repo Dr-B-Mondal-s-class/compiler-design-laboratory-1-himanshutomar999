@@ -295,6 +295,8 @@ It's valid phone no.
 Invalid phone no.
 ```
 
+
+
 6.2: WAP to verify valid email id.
 
 
@@ -321,6 +323,8 @@ Sample Input:
 Sample Output:
    Number of characters:24
 ```
+
+
 
 
 
